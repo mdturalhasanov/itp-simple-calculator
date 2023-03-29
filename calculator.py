@@ -3,11 +3,11 @@ def add(x, y):
 
 
 def subtract(x, y):
-    pass
+    x-y
 
 
 def divide(x, y):
-    pass
+    x/y
 
 
 def multiply(x, y):
